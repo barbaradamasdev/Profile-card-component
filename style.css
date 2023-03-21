@@ -1,0 +1,112 @@
+@import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;700&display=swap');
+
+:root {
+    /* Primary color */
+    --darkCyan: hsl(185, 75%, 39%);
+    --darkDesaturatedBlue: hsl(229, 23%, 23%);
+    --darkGrayishBlue: hsl(227, 10%, 46%);
+
+    /* Neutral color */
+    --darkGray: hsl(0, 0%, 59%);
+}
+
+* {
+    margin: auto;
+    box-sizing: border-box;
+}
+
+body {
+    font-size: 18px;
+    height: 100vh;
+    position: relative;
+    font-size: 18px;
+    background-color: var(--darkCyan);
+    font-family: 'Kumbh Sans', sans-serif;
+    background-image: url(images/bg-pattern-top.svg), url(images/bg-pattern-bottom.svg);
+    background-repeat: no-repeat;
+    background-position: left -20vw bottom 20vw, left 50vw top 20vw;
+}
+
+@media (max-width: 1110px) {
+    body {
+        background-position: right 50vw bottom 50vw, left 50vw top 50vw;
+    }
+}
+.content {
+    background-image: url(images/bg-pattern-card.svg);
+    background-repeat: no-repeat;
+    border-radius: 15px;
+    background-color: white;
+
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+
+    display: flex;
+    flex-direction: column;
+
+    width: 320px;
+    height: 375px;
+    margin: auto;
+}
+
+.space {
+    height: 55px;
+}
+
+.profile {
+    border: 5px solid white;
+    border-radius: 50%;
+}
+
+.name {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+span {
+    opacity: 80%;
+    font-weight: 300;
+    padding: 0;
+}
+
+.info {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 0;
+    gap: 50px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 18px;
+    color: var(--darkDesaturatedBlue);
+}
+
+.city {
+    font-size: 14px;
+    letter-spacing: inherit;
+    opacity: 80%;
+    font-weight: 300;
+}
+
+hr {
+    color: var(--darkGrayishBlue);
+    width: 100%;
+    opacity: 30%;
+}
+
+.data {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+p {
+    font-size: 10px;
+    letter-spacing: 2px;
+    opacity: 70%;
+}
