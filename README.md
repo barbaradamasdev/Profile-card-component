@@ -1,37 +1,27 @@
-# Frontend Mentor - Profile card component
+# [Frontend Mentor] - Profile card component
 
-![Design preview for the Profile card component coding challenge](./design/desktop-preview.jpg)
+![Design preview for the Results summary component coding challenge](./design/desktop-preview.jpg)
 
-## Welcome! 👋
+## 🔗 Link
+- [Live Version](https://barbaradamasdev.github.io/Profile-card-component)
 
-Thanks for checking out this front-end coding challenge.
+## 😄 Hello! 
 
-[Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
+This is a project in HTML and CSS, a challenge from [Frontend Mentor](https://www.frontendmentor.io).
+To complete this challenge I needed basic knowledge of HTML and CSS
 
-**To do this challenge, you need a basic understanding of HTML and CSS.**
+## ⚔️ The challenge 
 
-## The challenge
+The ideia of the challenge is to reproduce a close as possible to the proposed design. I used basic elements of both, with I had in mind, literally testing and improving. After finishing, I went to search of other professionals who already solved the challenge to se how I could improve. Satisfied with the result and movind on to the next one!
 
-Your challenge is to build out this profile card component and get it looking as close to the design as possible.
+## 💾 Technologies Used: 
+- HTML
+- CSS
+- Flexbox
+- Visual Studio Code
 
-You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
-
-Want some support on the challenge? [Join our Slack community](https://www.frontendmentor.io/slack) and ask questions in the **#help** channel.
-
-## Where to find everything
-
-Your task is to build out the project to the designs inside the `/design` folder. You will find both a mobile and a desktop version of the design. 
-
-The designs are in JPG static format. Using JPGs will mean that you'll need to use your best judgment for styles such as `font-size`, `padding` and `margin`. 
-
-If you would like the design files (we provide Sketch & Figma versions) to inspect the design in more detail, you can [subscribe as a PRO member](https://www.frontendmentor.io/pro).
-
-You will find all the required assets in the `/images` folder. The assets are already optimized.
-
-There is also a `style-guide.md` file containing the information you'll need, such as color palette and fonts.
-
-## Building your project
-
+## 🐼 Author 
+Bárbara Damasceno - barbaradamas.dev@gmail.com
 Feel free to use any workflow that you feel comfortable with. Below is a suggested process, but do not feel like you need to follow these steps:
 
 1. Initialize your project as a public repository on [GitHub](https://github.com/). Creating a repo will make it easier to share your code with the community if you need help. If you're not sure how to do this, [have a read-through of this Try Git resource](https://try.github.io/).
