@@ -3,7 +3,7 @@
 ![Design preview for the Results summary component coding challenge](./design/desktop-preview.jpg)
 
 ## 🔗 Link
-- [Live Version](https://barbaradamasdev.github.io/Profile-card-component)
+- [Live Version](https://jazzy-youtiao-9bc67a.netlify.app/)
 
 ## 😄 Hello! 
 
