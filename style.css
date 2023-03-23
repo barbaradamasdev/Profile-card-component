@@ -24,14 +24,9 @@ body {
     font-family: 'Kumbh Sans', sans-serif;
     background-image: url(images/bg-pattern-top.svg), url(images/bg-pattern-bottom.svg);
     background-repeat: no-repeat;
-    background-position: left -20vw bottom 20vw, left 50vw top 20vw;
+    background-position: right 52vw bottom 35vh, left 48vw top 52vh;
 }
 
-@media (max-width: 1110px) {
-    body {
-        background-position: right 50vw bottom 50vw, left 50vw top 50vw;
-    }
-}
 .content {
     background-image: url(images/bg-pattern-card.svg);
     background-repeat: no-repeat;
